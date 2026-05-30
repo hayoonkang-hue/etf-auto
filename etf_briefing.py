@@ -8,7 +8,7 @@ from googletrans import Translator # pip install googletrans==4.0.0-rc1
 
 # 1. 포트폴리오 종목 및 티커 매핑
 domestic_etfs = {
-    "482730": "TIGER 반도체TOP10커버드콜액티브",
+    "0177R0": "TIGER 반도체TOP10커버드콜액티브",
     "498410": "KODEX 금융고배당TOP10타겟위클리커버드콜",
     "472150": "TIGER 배당커버드콜액티브",
     "498400": "KODEX 200타겟위클리커버드콜",
