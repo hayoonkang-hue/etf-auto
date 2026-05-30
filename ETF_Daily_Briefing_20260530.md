@@ -3,7 +3,7 @@
 ## 📈 포트폴리오 가격 요약
 | 종목명 | 당일 가격 | 전일 대비 변동률 |
 |---|---|---|
-| TIGER 반도체TOP10커버드콜액티브 | 12,980원 | +1.33% |
+| TIGER 반도체TOP10커버드콜액티브 | 15,340원 | +2.27% |
 | KODEX 금융고배당TOP10타겟위클리커버드콜 | 11,380원 | -1.22% |
 | TIGER 배당커버드콜액티브 | 26,180원 | +3.15% |
 | KODEX 200타겟위클리커버드콜 | 26,545원 | +3.47% |
@@ -31,7 +31,7 @@
 ### 🇰🇷 TIGER 배당커버드콜액티브
 - 금일 관련 뉴스가 없습니다.
 ### 🇰🇷 KODEX 200타겟위클리커버드콜
-- 금일 관련 뉴스가 없습니다.
+- [KODEX 200타겟위클리커버드콜(498400) - 매일경제 마켓](https://news.google.com/rss/articles/CBMimwFBVV95cUxORHktVlJjWi1EcTRYQU9WVVVaRkJMNS1qbUppdHdmRk1iZlR3eWVYRVlQQ0NhTk5fS0JWMkQ4aldwNEdCdGhUN1dmRy14a1R2azZXcDJPcFE2dTNBZEdGUDVSdE5iNV9MMVBJSk4xSGpsczRCcjVlUzFPMmNxSW1qMGU3anF0cmR4YUxUMTVTeDVnaVJ2em02VklMbw?oc=5)
 ### 🇰🇷 PLUS 금채권혼합
 - 금일 관련 뉴스가 없습니다.
 ### 🇰🇷 PLUS 고배당주
