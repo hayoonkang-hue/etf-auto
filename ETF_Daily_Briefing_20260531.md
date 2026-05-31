@@ -1,0 +1,81 @@
+# 📊 ETF 일일 브리핑 (2026년 05월 31일)
+
+## 📈 포트폴리오 가격 요약
+| 종목명 | 당일 가격 | 전일 대비 변동률 |
+|---|---|---|
+| TIGER 반도체TOP10커버드콜액티브 | 15,340원 | +2.27% |
+| KODEX 금융고배당TOP10타겟위클리커버드콜 | 11,380원 | -1.22% |
+| TIGER 배당커버드콜액티브 | 26,180원 | +3.15% |
+| KODEX 200타겟위클리커버드콜 | 26,545원 | +3.47% |
+| PLUS 금채권혼합 | 10,340원 | +1.57% |
+| PLUS 고배당주 | 26,490원 | +1.40% |
+| KODEX 머니마켓액티브 | 104,490원 | +0.02% |
+| SOL 코리아고배당 | 13,625원 | +0.15% |
+| PLUS 자사주매입고배당주 | 12,705원 | -0.04% |
+| KODEX 미국배당커버드콜액티브 | 13,395원 | +0.19% |
+| TIGER 미국나스닥100타겟데일리커버드콜 | 12,205원 | +1.71% |
+| RISE 미국AI밸류체인데일리고정커버드콜 | 16,950원 | +3.45% |
+| ACE 미국나스닥100 | 34,720원 | +1.64% |
+| TIGER 미국초단기(3개월이하)국채 | 10,415원 | +0.29% |
+| TIGER 미국S&P500선물(H) | 76,960원 | +0.68% |
+| TIGER 미국필라델피아반도체나스닥 | 50,825원 | +2.98% |
+| KODEX 미국배당다우존스 | 13,400원 | +0.07% |
+| KODEX 미국S&P500 | 25,800원 | +1.12% |
+
+## 📰 종목별 최신 뉴스 (Top 3)
+
+### 🇰🇷 TIGER 반도체TOP10커버드콜액티브
+- 금일 관련 뉴스가 없습니다.
+### 🇰🇷 KODEX 금융고배당TOP10타겟위클리커버드콜
+- 금일 관련 뉴스가 없습니다.
+### 🇰🇷 TIGER 배당커버드콜액티브
+- [코스닥·고배당·커버드콜·중단기채·삼전현차·특수채 [이주의 상장ETF] - IT조선](https://news.google.com/rss/articles/CBMicEFVX3lxTE9fLTlJNUllMXNfWUlzeW4wZ3lOODVxN0U4YkptcERpd0JpdDVvNERrMldsNWNMWFh3eURCaXFPT3NzdkNsazJ2T0NMQjQwVFdQcFlUdlhBQWE4dlBYUUo4UXFyNlAxWm5MUmdodFY3MUzSAXRBVV95cUxOQkxFcjEtTmx0MzdyZmxiM3FJREpjUEs2OFBMMjcwLWNvOU9Hb1dya3VrbXBSUVk1ODlvdllaeW9va3VJS1d4ajR4bVM4Wk9DQmZtTktsQ052clEyZkJ6d0NBVWp3bDVya1R6YjdIQTNXNDZ4TQ?oc=5)
+- [한국거래소, 미래·한투 등 ETF 6종 신규 상장...인컴·채권·액티브 다변화 - 핀포인트뉴스](https://news.google.com/rss/articles/CBMid0FVX3lxTE5wVkVwUXZaRTVJTl9hSVFJa1Fvd0tybVZfQlNId2lhQm83MEw5aldvcUFJV0hsWjc1X2hPZ1l2SENlX3d4VTNBaHIweDJSWW1uYjNzblMtTzlrZTByR3VrVlh4NTlXUnJORnkzTGI5UjBoSm1sNkkw0gF3QVVfeXFMTnBWRXBRdlpFNUlOX2FJUUlrUW93S3JtVl9CU0h3aWFCbzcwTDlqV29xQUlXSGxaNzVfaE9nWXZIQ2Vfd3hVM0FocjB4MlJZbW5iM3NuUy1POWtlMHJHdWtWWHg1OVdSck5GeTNMYjlSMGhKbWw2STA?oc=5)
+### 🇰🇷 KODEX 200타겟위클리커버드콜
+- 금일 관련 뉴스가 없습니다.
+### 🇰🇷 PLUS 금채권혼합
+- [코스닥·고배당·커버드콜·중단기채·삼전현차·특수채 [이주의 상장ETF] - IT조선](https://news.google.com/rss/articles/CBMicEFVX3lxTE9fLTlJNUllMXNfWUlzeW4wZ3lOODVxN0U4YkptcERpd0JpdDVvNERrMldsNWNMWFh3eURCaXFPT3NzdkNsazJ2T0NMQjQwVFdQcFlUdlhBQWE4dlBYUUo4UXFyNlAxWm5MUmdodFY3MUzSAXRBVV95cUxOQkxFcjEtTmx0MzdyZmxiM3FJREpjUEs2OFBMMjcwLWNvOU9Hb1dya3VrbXBSUVk1ODlvdllaeW9va3VJS1d4ajR4bVM4Wk9DQmZtTktsQ052clEyZkJ6d0NBVWp3bDVya1R6YjdIQTNXNDZ4TQ?oc=5)
+- [채권 혼합부터 코스닥까지…ETF 6종목 신규 상장 - 네이트](https://news.google.com/rss/articles/CBMieEFVX3lxTE45OXFYS1ZoR0xJZ09SSU96N0hNbFVRWGR6SHhZY0tBNmFma1k1N0ZRM05uWHNsZkNLMWY5eVlrWDZzUUJzTFAwa0RiM2I2NnVLQkZEaFR4VjFEUm5mQWhvTlNDYV8zZzQ4WkM3Y09aVmMwRm44TVRsUw?oc=5)
+### 🇰🇷 PLUS 고배당주
+- [PLUS 고배당주위클리고정커버드콜(0018C0) - 매일경제 마켓](https://news.google.com/rss/articles/CBMilwFBVV95cUxPZHE4TmJCS3ZLVEJPVDJFSEoyRUk4dDNaVi1rVFBWcFlYNWhzLUY4TmotenJ4MGl4ZGhia2xMaDNodm1VUUpKSmVhc3otcE54SDJ2TlMxLWlvaXpaZGxMd3d2N2h0R1hzT2R1TWlwVW0tWkR1bkN2VnhHNktDYTFPakhDYjJuekVCWlJ3TGVqSXI5Uy1IZ3Nr?oc=5)
+- ['순자산 500조' ETF, 코스닥 넘본다…85% 수준 육박 - 연합뉴스](https://news.google.com/rss/articles/CBMiYEFVX3lxTE12Rk11c3R4elhqWmZBRG9YRFFQS3RmdXAyak1HSkc2ajQ3TTBzTVdpd1ZXNWZMMWlhVU9TU0lSOHZ1Qjc1RUtMenBEZmQ4RXNMSUxDNUp4NXBiTjhaWHhBUNIBYEFVX3lxTE12Rk11c3R4elhqWmZBRG9YRFFQS3RmdXAyak1HSkc2ajQ3TTBzTVdpd1ZXNWZMMWlhVU9TU0lSOHZ1Qjc1RUtMenBEZmQ4RXNMSUxDNUp4NXBiTjhaWHhBUA?oc=5)
+- [코스닥·고배당·커버드콜·중단기채·삼전현차·특수채 [이주의 상장ETF] - IT조선](https://news.google.com/rss/articles/CBMicEFVX3lxTE9fLTlJNUllMXNfWUlzeW4wZ3lOODVxN0U4YkptcERpd0JpdDVvNERrMldsNWNMWFh3eURCaXFPT3NzdkNsazJ2T0NMQjQwVFdQcFlUdlhBQWE4dlBYUUo4UXFyNlAxWm5MUmdodFY3MUzSAXRBVV95cUxOQkxFcjEtTmx0MzdyZmxiM3FJREpjUEs2OFBMMjcwLWNvOU9Hb1dya3VrbXBSUVk1ODlvdllaeW9va3VJS1d4ajR4bVM4Wk9DQmZtTktsQ052clEyZkJ6d0NBVWp3bDVya1R6YjdIQTNXNDZ4TQ?oc=5)
+### 🇰🇷 KODEX 머니마켓액티브
+- 금일 관련 뉴스가 없습니다.
+### 🇰🇷 SOL 코리아고배당
+- 금일 관련 뉴스가 없습니다.
+### 🇰🇷 PLUS 자사주매입고배당주
+- 금일 관련 뉴스가 없습니다.
+
+### 🌎 KODEX 미국배당커버드콜액티브
+- 금일 관련 뉴스가 없습니다.
+
+### 🌎 TIGER 미국나스닥100타겟데일리커버드콜
+- 금일 관련 뉴스가 없습니다.
+
+### 🌎 RISE 미국AI밸류체인데일리고정커버드콜
+- 금일 관련 뉴스가 없습니다.
+
+### 🌎 ACE 미국나스닥100
+- 금일 관련 뉴스가 없습니다.
+
+### 🌎 TIGER 미국초단기(3개월이하)국채
+- 금일 관련 뉴스가 없습니다.
+
+### 🌎 TIGER 미국S&P500선물(H)
+- 금일 관련 뉴스가 없습니다.
+
+### 🌎 TIGER 미국필라델피아반도체나스닥
+- 금일 관련 뉴스가 없습니다.
+
+### 🌎 KODEX 미국배당다우존스
+- 금일 관련 뉴스가 없습니다.
+
+### 🌎 KODEX 미국S&P500
+- 금일 관련 뉴스가 없습니다.
+
+## 💡 오늘의 핵심 한 줄
+글로벌 변동성과 배당 수익률을 동시에 고려하여 포트폴리오의 안정성을 유지 중입니다.
+
+## 🎯 오늘의 액션
+변동폭이 큰 기술주 기반 커버드콜의 프리미엄 수익을 확인하고, 리밸런싱 필요 여부를 점검하세요.
