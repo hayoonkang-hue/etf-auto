@@ -25,16 +25,13 @@
 ## 📰 종목별 최신 뉴스 (Top 3)
 
 ### 🇰🇷 TIGER 반도체TOP10커버드콜액티브
-- [미래에셋자산운용 “SK하이닉스 ADR, 韓 반도체 재평가 계기” - 팍스경제TV](https://news.google.com/rss/articles/CBMijgFBVV95cUxQbjgwbjBXZGZLNzBCOWxsZG1hU0hsSm1lczUzRWxkS05NeGdmc01HMm1nWGtiVkM4UFRWNnowTWx4SG9zZ0dPUVhmTU5fa1I3cmZuT2FuX0dvLU9MZ3luVUg0ZlcxQ0lMaE4yRElwVWstWVVvbEw4SDFpQ2RBVFc5Zl81YTMtRUdxejJJYURB?oc=5)
 - [반도체 ETF로 몰린 개인…하반기 전략은 ‘공격·방어’ 균형 - 이데일리](https://news.google.com/rss/articles/CBMigAFBVV95cUxObXVVVTRrczFLLTlMMV9hOC1sSURPV080VGJUMVM2T3VVRENTeGdGaUdIc0xyMzdNTzFGcER1TkNib0tUOTBrRlJZM0M0dE9OVzFWaUJsdTN4WjlpV0dBU3BDdXg2Tk5XeDhZZTZqNUZTU05TdmlBNFV1TmozUmY1SQ?oc=5)
-- [미래에셋운용 'SK하이닉스 ADR 상장시 패시브 자금 7조원 유입' - 한국아이닷컴](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OTE9HeUx1MjNsT2VFWkZLX3BnNmJaSVBNY1FFMFRrSkZIUnItYmw0NktaRUtuVEVpa0hiSGNtUWFoYzZoaWE3T2VTZ0J4NW1HOGxkVlJ3YmlJdTdLeFJoMGJKSmxUR1JEaEZfWlNvQdIBb0FVX3lxTE9OTE9HeUx1MjNsT2VFWkZLX3BnNmJaSVBNY1FFMFRrSkZIUnItYmw0NktaRUtuVEVpa0hiSGNtUWFoYzZoaWE3T2VTZ0J4NW1HOGxkVlJ3YmlJdTdLeFJoMGJKSmxUR1JEaEZfWlNvQQ?oc=5)
 ### 🇰🇷 KODEX 금융고배당TOP10타겟위클리커버드콜
 - 금일 관련 뉴스가 없습니다.
 ### 🇰🇷 TIGER 배당커버드콜액티브
-- [미래에셋자산운용 “SK하이닉스 ADR, 韓 반도체 재평가 계기” - 팍스경제TV](https://news.google.com/rss/articles/CBMijgFBVV95cUxQbjgwbjBXZGZLNzBCOWxsZG1hU0hsSm1lczUzRWxkS05NeGdmc01HMm1nWGtiVkM4UFRWNnowTWx4SG9zZ0dPUVhmTU5fa1I3cmZuT2FuX0dvLU9MZ3luVUg0ZlcxQ0lMaE4yRElwVWstWVVvbEw4SDFpQ2RBVFc5Zl81YTMtRUdxejJJYURB?oc=5)
-- [미래에셋운용 'SK하이닉스 ADR 상장시 패시브 자금 7조원 유입' - 한국아이닷컴](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OTE9HeUx1MjNsT2VFWkZLX3BnNmJaSVBNY1FFMFRrSkZIUnItYmw0NktaRUtuVEVpa0hiSGNtUWFoYzZoaWE3T2VTZ0J4NW1HOGxkVlJ3YmlJdTdLeFJoMGJKSmxUR1JEaEZfWlNvQdIBb0FVX3lxTE9OTE9HeUx1MjNsT2VFWkZLX3BnNmJaSVBNY1FFMFRrSkZIUnItYmw0NktaRUtuVEVpa0hiSGNtUWFoYzZoaWE3T2VTZ0J4NW1HOGxkVlJ3YmlJdTdLeFJoMGJKSmxUR1JEaEZfWlNvQQ?oc=5)
+- 금일 관련 뉴스가 없습니다.
 ### 🇰🇷 KODEX 200타겟위클리커버드콜
-- [상반기 신규상장 ETF 99개, 순자산 42조 폭증...삼성자산운용 12개, 미래에셋운용 11개 - 소비자가 만드는 신문](https://news.google.com/rss/articles/CBMibkFVX3lxTE5UNTRkY0VKbFh2SWF2aThmTkNSb056XzVGU1hDcWJfUE5rYklvSzlFLTc1TTU4NzBTMVdjYk9XSGpPY0JmbDItS0dRcFV5cHVSNGNtU2F5WTRwUUJSWHd4Y0huLURlY0tzVFFqYjBR?oc=5)
+- 금일 관련 뉴스가 없습니다.
 ### 🇰🇷 PLUS 금채권혼합
 - 금일 관련 뉴스가 없습니다.
 ### 🇰🇷 PLUS 고배당주
