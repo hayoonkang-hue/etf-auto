@@ -25,31 +25,28 @@
 ## 📰 종목별 최신 뉴스 (Top 3)
 
 ### 🇰🇷 TIGER 반도체TOP10커버드콜액티브
-- 금일 관련 뉴스가 없습니다.
+- [[ETF 머니플로우-8월 4주] 미래에셋자산운용, TIGER 미국S&P500 3주 연속 순매수 1위 - 신아일보](https://news.google.com/rss/articles/CBMicEFVX3lxTE9PLXZTN2NweU8ta0x3ZElIdjRNV3lUY0JQTnY1SWZpXzJkd2hKM3dCY255NURTd1RNZEUyOXlsdVd2VzQ2TFlESFlMX3Uxa0dBdDBFc25pa1Itcmx1SXg3cF9DV3BIbUlfRTJDRkdaaXE?oc=5)
+- [조정장에 일주일새 파킹형 ETF 1.6조…커버드콜 1조 유입 - 진일보](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZSTZUVGRDWEdFblMtWlFGUWVIb2d4VVlCWnh5UGtLWnRycURoYVNLeXU5bjl1VHpObXY0YlFVc2RJMnE3WU5TQm56M19fQUxxcEdIWjUyMEJIRUktNGw4MF9GQVlSakMycWp2YzFxWQ?oc=5)
 ### 🇰🇷 KODEX 금융고배당TOP10타겟위클리커버드콜
 - 금일 관련 뉴스가 없습니다.
 ### 🇰🇷 TIGER 배당커버드콜액티브
 - [코스피 흔들리자 일주일 새 2.6조 몰린 ‘방어형 ETF’ - 경북매일](https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Rm50eDVjMHFLOEJRUmFiNkNudUpMbWx2Zl9GQXJhQ1VtVjhhMzBPNF9nUnpFTmxkM252SzB4YUZtekxWTUpmem80LXE2aDFvMl83R0l1NUFGQQ?oc=5)
-- [[머니플로우] 조정장에 일주일새 파킹형 ETF 1.6조…커버드콜 1조 유입 - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WZnY0b2x6ckhacXZSa1dYZmpXbENfQUhmNl9lM3JaeEh0QndDR1g5ZG9iVkJnM05VTlpGUW02VnJyR3Y1NW9xUXNnNm5fV1hyQjZIVDhuTUdwRnPSAWBBVV95cUxOb1M3Z2hmWXItVUd2aVZUSzhNSF9CMjV5ZGxsUHBrTEV3cXhXR2FoOWJRQWlhZTdGSzdMZDU0S2JJclgzUnhkTXV3OHlsLWpJWW5fUUllS1FNaGhTSnYtTXA?oc=5)
-- [증시 조정에 투자자 자금 이동…파킹형·커버드콜 ETF 인기 - 산경투데이](https://news.google.com/rss/articles/CBMicEFVX3lxTE1WUkZUbTR1WFBjc284M1dCLUtIZlByRkg1UkprRFFYaGg2bDY0WngwWi13WHNZVC1qRzY1N1YwYmZnRzEwRHREWWtSc2E5cEZ0RmVYSHl1LUluX0p2Mm9fM2hLZy1hOGVhWDJzenVwZHnSAXRBVV95cUxONllkcm11cTU5cHBDazBTcFcyWlllc3NYcUpJSGVZWlQzVEtvaXgzbnQzWWRMQVBnXzg0SzRDcUNBNlFCNWZjLUhwNXFqZ3EtcUtiTEh5aElmaWU4X3ZEMkI5Mzl3bHpEVGNCTEQ4Skp2eXBLcQ?oc=5)
+- [[ETF 머니플로우-8월 4주] 미래에셋자산운용, TIGER 미국S&P500 3주 연속 순매수 1위 - 신아일보](https://news.google.com/rss/articles/CBMicEFVX3lxTE9PLXZTN2NweU8ta0x3ZElIdjRNV3lUY0JQTnY1SWZpXzJkd2hKM3dCY255NURTd1RNZEUyOXlsdVd2VzQ2TFlESFlMX3Uxa0dBdDBFc25pa1Itcmx1SXg3cF9DV3BIbUlfRTJDRkdaaXE?oc=5)
+- [[ETF워치]불안한 국장에 개인투자자 선택은 '서학·배당개미’ - 비즈워치](https://news.google.com/rss/articles/CBMiakFVX3lxTE5Idkh5V2ttOGRSUHFyX0txOEdLTlNKeUVpcGtNb09IWnI4ZUlILV91VGRLVkE1d2RhWG80RUk4bEQ3OU9DcjRqaDNfYmU5YWJuQUVMRWE4VG9TYnFVcm9LTWpuWTNWNFd6d2c?oc=5)
 ### 🇰🇷 KODEX 200타겟위클리커버드콜
-- [[머니플로우] 조정장에 일주일새 파킹형 ETF 1.6조…커버드콜 1조 유입 - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WZnY0b2x6ckhacXZSa1dYZmpXbENfQUhmNl9lM3JaeEh0QndDR1g5ZG9iVkJnM05VTlpGUW02VnJyR3Y1NW9xUXNnNm5fV1hyQjZIVDhuTUdwRnPSAWBBVV95cUxOb1M3Z2hmWXItVUd2aVZUSzhNSF9CMjV5ZGxsUHBrTEV3cXhXR2FoOWJRQWlhZTdGSzdMZDU0S2JJclgzUnhkTXV3OHlsLWpJWW5fUUllS1FNaGhTSnYtTXA?oc=5)
-- [변동성 완화·주주환원 확산…커버드콜 ETF 관심 '쑥' - 뉴스토마토](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZNnE2UUdRZzFiQUxQWVpGd1dqcUk2QTdkeEpmdlBWVE5CS29MVzV4d0tSQjB5SDNmREdvVUZSeXFDbW9iVktZTklwM29hQjNIZmJPTmFQVHJuc21BbVpxYQ?oc=5)
+- 금일 관련 뉴스가 없습니다.
 ### 🇰🇷 PLUS 금채권혼합
 - 금일 관련 뉴스가 없습니다.
 ### 🇰🇷 PLUS 고배당주
-- [한화운용 'PLUS 미국S&P500' 2종 총보수 0.0062%로 인하 - 주간한국](https://news.google.com/rss/articles/CBMicEFVX3lxTE5CeXVqTEhEeF9BMU9RTnpXdXJQbXZYTlkzdzFkRkRwTFlHX1RwSXRDTzhZcDBXa1BVZTJLaFpudXdILWhVS1FWaGZybERxcU9qRG1qekRzWkUxYlg4VlZvY0Q0ZHpiME5iVV9oWWpIR3jSAXRBVV95cUxOUk5kV0pOUmxVNE5WT29KVlR2RHQxNm1lSElWMl9DdzRDUFkyUW5CWVRsQmZfTVFpWGRpQzlzWHZEUzROQmRKTWtoalo0V0dPRXhzaEFOQko4ZWg3eXlHY1ZDSzFYRUVrQVY2cWNwXzdhZjR2eA?oc=5)
-- [문막농협 원주쌀 토토미 및 찰옥수수 축제 포스트 코로나 시대 디자인 패턴: 핵심 개념과 실제 응용 - Platea Magazine](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNmhURWFoVUEyQ1A4TzMtNGNWSjlnQTlGRVo2dEgyS1F6dFVmWnBpZk5PTTNPVDM5c1BnbTJtS0R3ME82UkNnV0s2M2kzbWVmSkNweHNSSm5udzlsZlBZdTQzNGpkUkdLSkxkQ1lmTldWQmF2STJCbGhUdEJialBiWTF6U2ZzS1Jf?oc=5)
-- [[골든크로스 종목] 에스피소프트 비투엔 신풍제약우 헥토파이낸셜 유니슨 노려볼까 - 핀포인트뉴스](https://news.google.com/rss/articles/CBMid0FVX3lxTFBWaE1aSFlVclRpV295TExTVlVTeVhPeWpIa2RzUjVldzYxRWpNVmdZR1JWWVgyaEZGMUVzNXIwTjBHaVNRQ0RwYnhyYVlDb0pqOG5wWWVieGo4d21TOEZLcjF1NGVYOE9iLU9oUW41SU8yVnBjdVhz0gF3QVVfeXFMUFZoTVpIWVVyVGlXb3lMTFNWVVN5WE95akhrZHNSNWV3NjFFak1WZ1lHUlZZWDJoRkYxRXM1cjBOMEdpU1FDRHBieHJhWUNvSmo4bnBZZWJ4ajh3bVM4RktyMXU0ZVg4T2ItT2hRbjVJTzJWcGN1WHM?oc=5)
+- 금일 관련 뉴스가 없습니다.
 ### 🇰🇷 KODEX 머니마켓액티브
-- [[머니플로우] 조정장에 일주일새 파킹형 ETF 1.6조…커버드콜 1조 유입 - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WZnY0b2x6ckhacXZSa1dYZmpXbENfQUhmNl9lM3JaeEh0QndDR1g5ZG9iVkJnM05VTlpGUW02VnJyR3Y1NW9xUXNnNm5fV1hyQjZIVDhuTUdwRnPSAWBBVV95cUxOb1M3Z2hmWXItVUd2aVZUSzhNSF9CMjV5ZGxsUHBrTEV3cXhXR2FoOWJRQWlhZTdGSzdMZDU0S2JJclgzUnhkTXV3OHlsLWpJWW5fUUllS1FNaGhTSnYtTXA?oc=5)
+- [국내 증시 조정에 투자자금 파킹형·커버드콜 ETF로 이동 - 피플투데이](https://news.google.com/rss/articles/CBMib0FVX3lxTE9rSzN0Q0QzMjVVV2hNWUc3UEpFUWRFeUMzYTFMalRqd09WWFhkU3RMUmdZVkJLTUVLZEZ1Qjc1VXo0Q3Q0VXoweUN3ME5QeU1XU2c5bENLdTd2QW1mcTV5djZyVVFhUGF2MUNwc0dCRQ?oc=5)
+- [증시 흔들리자 자금 어디로…머니마켓 ETF 1.6조 유입, 개인은 TIGER 미국S&P500 최다 순매수 - 베타뉴스](https://news.google.com/rss/articles/CBMiZEFVX3lxTE05T2F5UU5zZ29ja1MyMzlvdXFYOXFlaHB4aVl0WUJ6bHVZUVJTejl0UzYyeDF0VDdRVFRiam1mRXBJNGpzVXVETVBhNnRMbzl2NkNNZXZMbkg0MVMyZE5RYVl5VGM?oc=5)
 - [코스피 흔들리자 일주일 새 2.6조 몰린 ‘방어형 ETF’ - 경북매일](https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Rm50eDVjMHFLOEJRUmFiNkNudUpMbWx2Zl9GQXJhQ1VtVjhhMzBPNF9nUnpFTmxkM252SzB4YUZtekxWTUpmem80LXE2aDFvMl83R0l1NUFGQQ?oc=5)
-- [증시 조정에 투자자 자금 이동…파킹형·커버드콜 ETF 인기 - 산경투데이](https://news.google.com/rss/articles/CBMicEFVX3lxTE1WUkZUbTR1WFBjc284M1dCLUtIZlByRkg1UkprRFFYaGg2bDY0WngwWi13WHNZVC1qRzY1N1YwYmZnRzEwRHREWWtSc2E5cEZ0RmVYSHl1LUluX0p2Mm9fM2hLZy1hOGVhWDJzenVwZHnSAXRBVV95cUxONllkcm11cTU5cHBDazBTcFcyWlllc3NYcUpJSGVZWlQzVEtvaXgzbnQzWWRMQVBnXzg0SzRDcUNBNlFCNWZjLUhwNXFqZ3EtcUtiTEh5aElmaWU4X3ZEMkI5Mzl3bHpEVGNCTEQ4Skp2eXBLcQ?oc=5)
 ### 🇰🇷 SOL 코리아고배당
 - 금일 관련 뉴스가 없습니다.
 ### 🇰🇷 PLUS 자사주매입고배당주
-- [문막농협 원주쌀 토토미 및 찰옥수수 축제 포스트 코로나 시대 디자인 패턴: 핵심 개념과 실제 응용 - Platea Magazine](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNmhURWFoVUEyQ1A4TzMtNGNWSjlnQTlGRVo2dEgyS1F6dFVmWnBpZk5PTTNPVDM5c1BnbTJtS0R3ME82UkNnV0s2M2kzbWVmSkNweHNSSm5udzlsZlBZdTQzNGpkUkdLSkxkQ1lmTldWQmF2STJCbGhUdEJialBiWTF6U2ZzS1Jf?oc=5)
-- [한화운용 'PLUS 미국S&P500' 2종 총보수 0.0062%로 인하 - 주간한국](https://news.google.com/rss/articles/CBMicEFVX3lxTE5CeXVqTEhEeF9BMU9RTnpXdXJQbXZYTlkzdzFkRkRwTFlHX1RwSXRDTzhZcDBXa1BVZTJLaFpudXdILWhVS1FWaGZybERxcU9qRG1qekRzWkUxYlg4VlZvY0Q0ZHpiME5iVV9oWWpIR3jSAXRBVV95cUxOUk5kV0pOUmxVNE5WT29KVlR2RHQxNm1lSElWMl9DdzRDUFkyUW5CWVRsQmZfTVFpWGRpQzlzWHZEUzROQmRKTWtoalo0V0dPRXhzaEFOQko4ZWg3eXlHY1ZDSzFYRUVrQVY2cWNwXzdhZjR2eA?oc=5)
+- 금일 관련 뉴스가 없습니다.
 
 ### 🌎 KODEX 미국배당커버드콜액티브
 - 금일 관련 뉴스가 없습니다.
