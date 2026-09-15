@@ -3,53 +3,53 @@
 ## 📈 포트폴리오 가격 요약
 | 종목명 | 당일 가격 | 전일 대비 변동률 |
 |---|---|---|
-| TIGER 반도체TOP10커버드콜액티브 | 데이터 없음 | - |
-| KODEX 금융고배당TOP10타겟위클리커버드콜 | 데이터 없음 | - |
-| TIGER 배당커버드콜액티브 | 데이터 없음 | - |
-| KODEX 200타겟위클리커버드콜 | 데이터 없음 | - |
-| PLUS 금채권혼합 | 데이터 없음 | - |
-| PLUS 고배당주 | 데이터 없음 | - |
-| KODEX 머니마켓액티브 | 데이터 없음 | - |
-| SOL 코리아고배당 | 데이터 없음 | - |
-| PLUS 자사주매입고배당주 | 데이터 없음 | - |
-| KODEX 미국배당커버드콜액티브 | 데이터 없음 | - |
-| TIGER 미국나스닥100타겟데일리커버드콜 | 데이터 없음 | - |
-| RISE 미국AI밸류체인데일리고정커버드콜 | 데이터 없음 | - |
-| ACE 미국나스닥100 | 데이터 없음 | - |
-| TIGER 미국초단기(3개월이하)국채 | 데이터 없음 | - |
-| TIGER 미국S&P500선물(H) | 데이터 없음 | - |
-| TIGER 미국필라델피아반도체나스닥 | 데이터 없음 | - |
-| KODEX 미국배당다우존스 | 데이터 없음 | - |
-| KODEX 미국S&P500 | 데이터 없음 | - |
+| TIGER 반도체TOP10커버드콜액티브 | 10,655원 | +0.09% |
+| KODEX 금융고배당TOP10타겟위클리커버드콜 | 12,000원 | -1.80% |
+| TIGER 배당커버드콜액티브 | 19,635원 | -0.71% |
+| KODEX 200타겟위클리커버드콜 | 19,485원 | -1.09% |
+| PLUS 금채권혼합 | 9,605원 | -0.16% |
+| PLUS 고배당주 | 25,290원 | -1.35% |
+| KODEX 머니마켓액티브 | 105,525원 | +0.01% |
+| SOL 코리아고배당 | 12,970원 | -1.07% |
+| PLUS 자사주매입고배당주 | 13,085원 | -1.32% |
+| KODEX 미국배당커버드콜액티브 | 12,280원 | +0.78% |
+| TIGER 미국나스닥100타겟데일리커버드콜 | 10,185원 | +1.04% |
+| RISE 미국AI밸류체인데일리고정커버드콜 | 13,505원 | +0.30% |
+| ACE 미국나스닥100 | 30,065원 | +1.02% |
+| TIGER 미국초단기(3개월이하)국채 | 9,405원 | +0.91% |
+| TIGER 미국S&P500선물(H) | 76,490원 | -0.27% |
+| TIGER 미국필라델피아반도체나스닥 | 39,470원 | -1.86% |
+| KODEX 미국배당다우존스 | 12,650원 | +1.12% |
+| KODEX 미국S&P500 | 23,295원 | +0.69% |
 
 ## 📰 종목별 최신 뉴스 (Top 3)
 
 ### 🇰🇷 TIGER 반도체TOP10커버드콜액티브
-- [처음 읽는 게임 정보에서 찾을 이더 리움 네트워크 변경 핵심 내용 - Histoire pour tous](https://news.google.com/rss/articles/CBMilgFBVV95cUxQTkpoSVYxaklBd1pCUHl6NDNUMWlBU3pLR2JYaGlRaTJyVTNVejJOT29mT1pCcG41WmQxSW1CTmhhWDRXaEtXUTBYbF9RSGcxNWJfY2RVZ0ZjeFN5T3BPUWUzSEEyRDh4VlVZMWhGWmtLd3A4M0pCeXNoQ0ZGSktnWjFvaDU5Vk53OWstVENtQ1hsNDJrZUE?oc=5)
-- ["금값 다시 5000달러 간다고?" 들썩…증시 흔들릴 때 더 빛난다 - v.daum.net](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKQ09QaHphNDRUUVRZd2lYUm1MZmgxZEMteWFNUWtUb09zSllxTzlNeVBvS0YtVmJIbXRaQ0pqdVRIU3FEOFJOM2ZNbk9tMGNmQ1haRg?oc=5)
-- [처음 보는 기능은 설명부터, 카지노 로얄 2033 - Histoire pour tous](https://news.google.com/rss/articles/CBMipAJBVV95cUxOWTZyYkVOV19kOTg1Z3FncWJXalZJd0RmRVZJRWJ2X2lHVHBaaUNmN3VfZERGd3JkcWp3RENrQmRvdUV5ZHQ2QXdSSDZGOFN3UkRzRDJmLVB1c0dGUjE5OEVzVHV0N1gwU1lhSFM4T28tQUZJOHFUb2VSNXFiRm1ZQkhRR3p5cjFmWkpkTl9OdU55MnJKenJHQVA4X3NQT3Nzb0MxUTl2RWREZm1hYzMwSmF4Y2Z2X2ljQWdQZ3JlZmhlWnRwTEtxU21ybWhXZS1uQVF1VTlWNTB5R0ZfNktlaEU4R2d1d21PWVlidDM3T1hEd2tSSGlLRDFhXzB0TFpMQ1pwejR3dmN0WFM0bjZLMnJ0TDBGbWE0VXdXSDE2a251Q0R4?oc=5)
+- [국내 ETF 웃었는데 개미는 팔았다…美 지수·파킹형으로 자금 이동 - 매일신문](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5S3dvQzZjcDJRRjU1UnpqTFRLNjA2UFA1aWxWTUoxcmdWYlYtRDQtYU5aVHp0U0ZqdlJtZHllbEYzWDRwWi1JeFdSaXFfT0JlSU5yZklYblJlckpjcEZkblhn?oc=5)
+- [삼성자산운용 'KODEX 미국AI메모리TOP2플러스' 상장 - 마일드경제](https://news.google.com/rss/articles/CBMia0FVX3lxTE9mOE9EYzV2UTBVNmdLT3JiM3ZlMWo5Rk9NY1pHZ2RTd2UtaW5UOHppUVFGOXVEYndtSTNYTV9LN3MzQkpLLUktb1FkMGdpNmNMQkxCekVMbFpXNldTX1Y5M3Y1UnhHdXJucWV3?oc=5)
+- [게임 특징을 짧게 비교하는 토토 경찰 디시 제로 상세 항목 - Histoire pour tous](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUW5yTEpJYkhVS0cxUXJxQUw3dF9WdW9jQ1EtMDZUbEhkQ0N2dWxRclZYc0hLMElDWENmMVNHaW5YVkRVTE10Q0w3UF9QNExPNG9rcGxFRFNnSHpHQ1BoVnM1anI0MDZmZjl2a3JpZWR5VG0zT2djTEtLdjRkQnY2a0E5MkY5ZUdkM2R2ZkNCaFM2OWlXTmFjMjFyVzBRRzBRRjlOZUowTVFFMXNiRDJYWUhLZTFobUFX?oc=5)
 ### 🇰🇷 KODEX 금융고배당TOP10타겟위클리커버드콜
-- [[IB토마토]커버드콜 ETF 공시 개편…위험은 통일, 분배율은 제각각 - 뉴스토마토](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVNDNDYlpUVGw0QnFuRXdnR0o0Sk1hS1FIcExJMXNDdXFpamdfd1RISnBQY2YyOGVIQi11d2tOZk5WcE9Mbk45Wi1jenlTRnNqbjJPZXpCNlFsUlBNTWhHaQ?oc=5)
-- [처음 보는 기능은 설명부터, 카지노 로얄 2033 - Histoire pour tous](https://news.google.com/rss/articles/CBMipAJBVV95cUxOWTZyYkVOV19kOTg1Z3FncWJXalZJd0RmRVZJRWJ2X2lHVHBaaUNmN3VfZERGd3JkcWp3RENrQmRvdUV5ZHQ2QXdSSDZGOFN3UkRzRDJmLVB1c0dGUjE5OEVzVHV0N1gwU1lhSFM4T28tQUZJOHFUb2VSNXFiRm1ZQkhRR3p5cjFmWkpkTl9OdU55MnJKenJHQVA4X3NQT3Nzb0MxUTl2RWREZm1hYzMwSmF4Y2Z2X2ljQWdQZ3JlZmhlWnRwTEtxU21ybWhXZS1uQVF1VTlWNTB5R0ZfNktlaEU4R2d1d21PWVlidDM3T1hEd2tSSGlLRDFhXzB0TFpMQ1pwejR3dmN0WFM0bjZLMnJ0TDBGbWE0VXdXSDE2a251Q0R4?oc=5)
+- 금일 관련 뉴스가 없습니다.
 ### 🇰🇷 TIGER 배당커버드콜액티브
-- [처음 보는 기능은 설명부터, 카지노 로얄 2033 - Histoire pour tous](https://news.google.com/rss/articles/CBMipAJBVV95cUxOWTZyYkVOV19kOTg1Z3FncWJXalZJd0RmRVZJRWJ2X2lHVHBaaUNmN3VfZERGd3JkcWp3RENrQmRvdUV5ZHQ2QXdSSDZGOFN3UkRzRDJmLVB1c0dGUjE5OEVzVHV0N1gwU1lhSFM4T28tQUZJOHFUb2VSNXFiRm1ZQkhRR3p5cjFmWkpkTl9OdU55MnJKenJHQVA4X3NQT3Nzb0MxUTl2RWREZm1hYzMwSmF4Y2Z2X2ljQWdQZ3JlZmhlWnRwTEtxU21ybWhXZS1uQVF1VTlWNTB5R0ZfNktlaEU4R2d1d21PWVlidDM3T1hEd2tSSGlLRDFhXzB0TFpMQ1pwejR3dmN0WFM0bjZLMnJ0TDBGbWE0VXdXSDE2a251Q0R4?oc=5)
-- [KRX 애프터마켓 첫 시행… 광전자·빛과전자·삼익제약 거래량 급증 - MTN 머니투데이방송](https://news.google.com/rss/articles/CBMiZEFVX3lxTE13blJweVBOejJoaGFjYjVRMHBTbDlQTmlJdy1zQ0dVZW04ZFRaN2p4WWY1bjNSVDBLZndQTzNoRlpjX1JxRzRNaUZ1RzBWZU5sdWRyZllJQlIyQU84YmItWlVUY2o?oc=5)
+- [작은 기기에서 메뉴를 찾는 1+1 토토사이트 조작 팁 - Histoire pour tous](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUHNrM3I1bzdOZU01MGJUYmN3LUsxLUl6OENXZmwzakpfRHhmMldjc0JVTDJJdDlUMDlOSno2ajBGUkFEYWlDNDhMLTljNElLQV9wN0VWWkcxalo1c0U5ZjYxSXF0N29sd2xTYnVKLXJadTgyNUxhTFZMd2pwYUZwNEc2UC05RnBaVXNhb1ZIQm16TlhIeWZ1WWlEY0MtaVQwcUhHeFhEOHk1Y0xRdHQzQWdKNXZvTUk?oc=5)
+- [미래에셋 ‘TIGER 미국S&P500 ETF’, 하반기 개인 순매수 1위 - 오늘경제](https://news.google.com/rss/articles/CBMic0FVX3lxTE02Yl9WMFN4c2Ntbi1lU0ZkVTVEUEtMNFZWc0hqa2tyWkYweHVSM3pUMnFWOGl4UnRHWnE3cVRSU0YySFVDNmQ3RE5YbmpOd2EwMG5xV1RkNXBaUUFqVVROUTVfOHdZWGVUdWlRbW8tZVJzZE0?oc=5)
+- [국내 ETF 웃었는데 개미는 팔았다…美 지수·파킹형으로 자금 이동 - 매일신문](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5S3dvQzZjcDJRRjU1UnpqTFRLNjA2UFA1aWxWTUoxcmdWYlYtRDQtYU5aVHp0U0ZqdlJtZHllbEYzWDRwWi1JeFdSaXFfT0JlSU5yZklYblJlckpjcEZkblhn?oc=5)
 ### 🇰🇷 KODEX 200타겟위클리커버드콜
-- [처음 읽는 게임 정보에서 찾을 이더 리움 네트워크 변경 핵심 내용 - Histoire pour tous](https://news.google.com/rss/articles/CBMilgFBVV95cUxQTkpoSVYxaklBd1pCUHl6NDNUMWlBU3pLR2JYaGlRaTJyVTNVejJOT29mT1pCcG41WmQxSW1CTmhhWDRXaEtXUTBYbF9RSGcxNWJfY2RVZ0ZjeFN5T3BPUWUzSEEyRDh4VlVZMWhGWmtLd3A4M0pCeXNoQ0ZGSktnWjFvaDU5Vk53OWstVENtQ1hsNDJrZUE?oc=5)
-- [[IB토마토]커버드콜 ETF 공시 개편…위험은 통일, 분배율은 제각각 - 뉴스토마토](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVNDNDYlpUVGw0QnFuRXdnR0o0Sk1hS1FIcExJMXNDdXFpamdfd1RISnBQY2YyOGVIQi11d2tOZk5WcE9Mbk45Wi1jenlTRnNqbjJPZXpCNlFsUlBNTWhHaQ?oc=5)
-- [분배율 23%인데 수익은 -24%…성과 괴리 큰 커버드콜 - 서울경제](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhbEtSc21XaU1CVEpvb254TmF3aEFpSDdZQXVqd19iamtrSm15NkpVVXp4b2VPbkhRYUt5UXkxU3pHWVJsODlMd0ZOaHBWTU01TnfSAVNBVV95cUxOaG5JamFjUFg2a0ZGcnlFMmR4QUNQdlhUTG5PVDhabkJoN205dlY4aEw1dkY0S2lPRTNFOFZ0d01yMmRPcXY2OVM5MTdtNVItNEl0WQ?oc=5)
+- [국내 ETF 웃었는데 개미는 팔았다…美 지수·파킹형으로 자금 이동 - 매일신문](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5S3dvQzZjcDJRRjU1UnpqTFRLNjA2UFA1aWxWTUoxcmdWYlYtRDQtYU5aVHp0U0ZqdlJtZHllbEYzWDRwWi1JeFdSaXFfT0JlSU5yZklYblJlckpjcEZkblhn?oc=5)
+- [터치 반응이 늦을 때 점검하는 엔트리 파워볼 놀이터 모바일 환경 - Histoire pour tous](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDFqaFE3aEItbEZsVG9aM2dPZlVBZnR3cFpxb2hJTGFnZFhxYXNNSWtudFdsVHVnVE9CdUdvUmpxb2ozUC1pUFB1TkF3VnNWLXloNm1KSU0xZGtFSFhDUFRENmxZZTF1MlpxVHhzX25WbWh2N0ZKeGdDMUJpYTNiVEE5QlBmWVVpSzhiOXdsS2hQWWtXcUpyNWlpT3lral9jYXEzRnFTWFlJTlluTnk0dw?oc=5)
 ### 🇰🇷 PLUS 금채권혼합
 - 금일 관련 뉴스가 없습니다.
 ### 🇰🇷 PLUS 고배당주
-- [분배율 23%인데 수익은 -24%…성과 괴리 큰 커버드콜 - 서울경제](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhbEtSc21XaU1CVEpvb254TmF3aEFpSDdZQXVqd19iamtrSm15NkpVVXp4b2VPbkhRYUt5UXkxU3pHWVJsODlMd0ZOaHBWTU01TnfSAVNBVV95cUxOaG5JamFjUFg2a0ZGcnlFMmR4QUNQdlhUTG5PVDhabkJoN205dlY4aEw1dkY0S2lPRTNFOFZ0d01yMmRPcXY2OVM5MTdtNVItNEl0WQ?oc=5)
-- [처음 보는 기능은 설명부터, 카지노 로얄 2033 - Histoire pour tous](https://news.google.com/rss/articles/CBMipAJBVV95cUxOWTZyYkVOV19kOTg1Z3FncWJXalZJd0RmRVZJRWJ2X2lHVHBaaUNmN3VfZERGd3JkcWp3RENrQmRvdUV5ZHQ2QXdSSDZGOFN3UkRzRDJmLVB1c0dGUjE5OEVzVHV0N1gwU1lhSFM4T28tQUZJOHFUb2VSNXFiRm1ZQkhRR3p5cjFmWkpkTl9OdU55MnJKenJHQVA4X3NQT3Nzb0MxUTl2RWREZm1hYzMwSmF4Y2Z2X2ljQWdQZ3JlZmhlWnRwTEtxU21ybWhXZS1uQVF1VTlWNTB5R0ZfNktlaEU4R2d1d21PWVlidDM3T1hEd2tSSGlLRDFhXzB0TFpMQ1pwejR3dmN0WFM0bjZLMnJ0TDBGbWE0VXdXSDE2a251Q0R4?oc=5)
-- [국내 커버드콜 ETF, 높은 분배율에도 총수익률 부진 확대 - Traders Union](https://news.google.com/rss/articles/CBMirAFBVV95cUxQNnFHMVJpY1NWVWg1c2xwY2JuZDJUZ3ZqNmdQckJoN21iX2tPOHpSc2hvZDlXOFhkeUlaMTJNbmx3and6YUxMV2I2OXVLR0JTUVVYTkRfazBQdkZUMlBpdVZZWHdXWVpDaGhZaW9zWGR6YU1OV01xMDR1akl4V1NnOXR3LTViQTFUNlROTnNSbnpUdERSNXNob0xXRmxuaVlCQXNyaXdVS0JiWVVV?oc=5)
+- [커버드콜 ETF 74% 수익률 역주행…분배율 높아도 원금은 줄었다 - 서울경제](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zcW5BT2d6MU9vX2RDUHljb2cyemw1dnh5cDZzME9Rb0pTSkFsYU40Wkc5czRKU0FFbF8wZ0dvc2c4S2dZZjAySTZ3Vmp3d2k2S2fSAVNBVV95cUxQT29qZnVfbXhBa2tEZXMxYkJycWlqZk9NR1hMN2c1Z3d5NDNHMEJ3Tzhrd3Z1bVpKUTJJWmRiTk5MZVNhc2VhZ2htSUVxYy1WY1dwSQ?oc=5)
+- [中 AI기업 즈푸, 두 달 만에 11조 조달…AI 개발에 ‘실탄’ 쏟는다 - 서울경제](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OYkxyM3I5S29KOGZiMVR1RjZhWDY0b2Y2TWlSWm5FdEh3d0oxSnczZmZzc1BpRzNENGd2aDQwdldPRjhBU2ppZ2xSdXl0ZElRblHSAVNBVV95cUxOQzh5bDIwS3JTb2U0M1FFTGFfeGhYaEhsbHpnb0ZZOXR2TkpwRWNjdlB6RnE4VzRfa3U0OXV0WGRXeWNjaFcyWEFrYWloWERhNGhCRQ?oc=5)
+- [금리·유가·AI 속도조절론 삼중 충격…코스피 3% 급락 - 서울경제](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Ec1QyNE9HN3NvUTU0cFY3ekY2TTJvQ1JOcWtMNDRHaDFMZTdZeXJsQlEtYXN4TXJWSnV6OXgwcW9oTExXYU1HeVMxQkVhQmsyX1HSAVNBVV95cUxOVFoyU0lUVUJQRjNURlhUV1lXRzFLZTJNVkthc0NJOW9DajAxLXYyTThDZW9HeDQxTTFhaldORVFiZ0RkNWRxTGpabHY0d3Vqb1Nrbw?oc=5)
 ### 🇰🇷 KODEX 머니마켓액티브
-- ["주식 살까 말까"… 불안한 개미들, ‘파킹형 ETF’에 1.4조 뭉칫돈 [김지영의 생존투자] - v.daum.net](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjenRQSW5IczNRNllpcHZrNlRrOGZCNmtqUjNsdUlXbXhYV3lIOFJsNi1iTXRHMV9MWVpfZTlRaWVrOTlPNlVZZW5Lcw?oc=5)
-- [[표]9월 14일 52주 신고가 종목 및 최근 동향 - 뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xWmQzLVh6WlJDSDh1LXBLRGRza2RyeHJBTGVCR0lPenZCMDU2eDIwV3hzcG5jSWFVOTI5dVN6eWxody1EVFM4YnlfM1g3a0dxQm94YmtNNnN6aHVy?oc=5)
-- [[운용사도 디지털자산④] 삼성운용, 비트코인 ETF '선행학습'…홍콩서 쌓은 3년의 경험 - startuptoday.co.kr](https://news.google.com/rss/articles/CBMic0FVX3lxTE1vM0dvdEdYMWZsSnVBWHRlT3JuYUI0Y2xmVEp2QVlibjZMR1lnTGMxMG9PVkNRR1ZWOVlyUl9LV2pVM3JPQTdrZjh0QU9idXBhSG1MTlZlOEJTOFVKMml5VG96VlZZcmlOdElEQldJRGVPVUk?oc=5)
+- [FOMC 앞두고 ETF 자금 갈렸다…주식 8902억 이탈·채권 1조 유입 - 뉴스투데이](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VRmlCd2EwZHBMTG1DUDZDT2xCMTJkRXRVMDJydVltWEE1bFB0c2pKaS0wSEdWRTFrdzRGeWY0Q0hRMFNwZ3pOXzAtaFk2bC0tMHFTYUdMQURMTFJQdmc?oc=5)
+- [대기성 자금은 느는데, 9월 개미는 국장 관망…실탄 어디로 - 머니투데이 - 머니투데이](https://news.google.com/rss/articles/CBMibkFVX3lxTE9QVDlUdzhSTFlINUxTeC0td2p4RzdIM0JBZmpRZHgyX3VUUTM3cTBucUFlbHhtbHRmLVk4WV9IRjhoUnEyUWhFZF9DZVhSSXdRMmNpWGxoMUlCNlNWc19aQnlEbHNRMTIzTEJWZHVR0gFuQVVfeXFMT1BUOVR3OFJMWUg1TFN4LS13anhHN0gzQkFmalFkeDJfdVRRMzdxMG5xQWVseG1sdGYtWThZX0hGOGhScTJRaEVkX0NlWFJJd1EyY2lYbGgxSUI2U1ZzX1pCeURsc1ExMjNMQlZkdVE?oc=5)
+- [국내 ETF 웃었는데 개미는 팔았다…美 지수·파킹형으로 자금 이동 - 매일신문](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5S3dvQzZjcDJRRjU1UnpqTFRLNjA2UFA1aWxWTUoxcmdWYlYtRDQtYU5aVHp0U0ZqdlJtZHllbEYzWDRwWi1JeFdSaXFfT0JlSU5yZklYblJlckpjcEZkblhn?oc=5)
 ### 🇰🇷 SOL 코리아고배당
-- 금일 관련 뉴스가 없습니다.
+- [신한자산운용 'SOL 코리아고배당', 9월 60원 분배 - 뉴스핌](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sMXotOEoxYzRMbVNuVUhFOUhKYV9hZ3lYS1NBYmw1OEpJcHFDVzI4S0pNcHdWQkN2Z1BQMkY4VGNrc3h2aTYwZkdtTi1sYmZwQlZZS0RSdFRLWHNt?oc=5)
+- [신한운용, SOL 코리아고배당 9월 분배금 60원 지급 - 아시아경제](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yUTNOZy1tVFdSRFdNR3pVVFNyTl9Qb2NRdG4xRjR3bXpiT2J1LW50Zm4xQmk5RG85RXRuSVc5NndGLTFvNGpQdEJxMGY0ejUyN0FrU1FxeVdMYlV2NVpRa3Jn?oc=5)
 ### 🇰🇷 PLUS 자사주매입고배당주
 - 금일 관련 뉴스가 없습니다.
 
