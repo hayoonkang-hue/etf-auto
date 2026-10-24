@@ -25,24 +25,21 @@
 ## 📰 종목별 최신 뉴스 (Top 3)
 
 ### 🇰🇷 TIGER 반도체TOP10커버드콜액티브
-- [[ETF워치]中로봇 날고 방산 추락…개인은 코스피200 담아 - 비즈워치](https://news.google.com/rss/articles/CBMiakFVX3lxTE1jNDZPYVUzcjc1LVJ1X2dZa1FON3FKZ096bWdfbU9yRXZNVVFjdmxRTURJNzY2eFdhLUhWZUFsSnh4TGpDRFNqSW0ySGlNMWZRN2xzOEU5LW9reVFyLUxVSjVRZFNqMC1VUnc?oc=5)
-- [[ETF 롤러코스터] ④미래에셋, 반도체 충격 완화시킨 ‘글로벌 안전바’ - FETV](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pdWhqNWdEdDA3eHY3TDB5Sm0wRDU1bWl3M1NtQ3BZNExlUTFPSWNOcDE1UUhsRjRiSDBCUGNWaEpBOHIxaXFjcHpTUjdLSDdWNkhYamVSU2l2OWlVRVJtWUN0c0xzOU9j?oc=5)
+- [中로봇 ETF 12% 상승…방산 레버리지 급락 : 한국증시 - 재경일보](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzSTAwVlZpNE45bmtoR2xGOEtJcmVrNi1vX2RhNEQ5V0c5cnMzRVlnV3g2QjZZVF9aTmJnRU43bzhRUmRnYnlLOU54VQ?oc=5)
+- [[ETF워치]中로봇 날고 방산 추락…개인은 코스피200 담아 - 네이트뷰](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kSmpXRnZwazlkLUptVE9pZ1RPUHYxS0pSOTFKT2xKa1YyMmVrMXJqSG1xSHZyZERoU2hJOVJYOGFybWs3MUpnV3Uxd19OQXJUQkhGWDFrd203QdIBWkFVX3lxTE1kSmpXRnZwazlkLUptVE9pZ1RPUHYxS0pSOTFKT2xKa1YyMmVrMXJqSG1xSHZyZERoU2hJOVJYOGFybWs3MUpnV3Uxd19OQXJUQkhGWDFrd203QQ?oc=5)
 ### 🇰🇷 KODEX 금융고배당TOP10타겟위클리커버드콜
 - 금일 관련 뉴스가 없습니다.
 ### 🇰🇷 TIGER 배당커버드콜액티브
-- [[ETF머니플로우-10월3주] KODEX200 순매수 1위 수성…TIGER 미국 S&P500 6계단↑ - 신아일보](https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZV1VYRDZVa3FiT0ZRSGZmYmtWYVpBTG5OSm8wTTVNVWx0d0VKTWFvWEFFS2FOdXJLZkVyek9RZ201b1BhOFVxdGkwVF93SHZCd1lwOVZaMFFmY0luYURtRGNkNnBXQUhtYlFjZG11ZUU?oc=5)
-- [[ETF워치]中로봇 날고 방산 추락…개인은 코스피200 담아 - 비즈워치](https://news.google.com/rss/articles/CBMiakFVX3lxTE1jNDZPYVUzcjc1LVJ1X2dZa1FON3FKZ096bWdfbU9yRXZNVVFjdmxRTURJNzY2eFdhLUhWZUFsSnh4TGpDRFNqSW0ySGlNMWZRN2xzOEU5LW9reVFyLUxVSjVRZFNqMC1VUnc?oc=5)
-- [이종욱 관세청장, 카메룬 관세청장 면담 - 조세플러스](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NcFFSU1pOSnowNjVycDhnWmc3anUxYkIzRFd6UzJZWVdqcEx0R0pFMERzLWFKZXVfcEdMR2I4a0tiMEFBbmRaY2VIVmR0SnZKT2xmRmtEejfSAVNBVV95cUxOTUJIVTBmVkc4aUpiRzFUdDZ4a0FpN3VETllXdW5HNmxGT1J3SVZoQ1BORkxtLTdZZ0VvdHVzd2dpNzF1MGJUU2dqTWVNWWI3eEZIZw?oc=5)
+- [中로봇 ETF 12% 상승…방산 레버리지 급락 : 한국증시 - 재경일보](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzSTAwVlZpNE45bmtoR2xGOEtJcmVrNi1vX2RhNEQ5V0c5cnMzRVlnV3g2QjZZVF9aTmJnRU43bzhRUmRnYnlLOU54VQ?oc=5)
+- [[ETF워치]中로봇 날고 방산 추락…개인은 코스피200 담아 - 네이트뷰](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IVmo2Z3JPZWh1TG1PTkFkdjBuM09YcFlraEFpb0pObVFqOVRzc3QyUXhVZXY1TUptdDB1eno0UnBmZ01KbnhGRl81S28tWklPUDdDQ9IBWkFVX3lxTE1kSmpXRnZwazlkLUptVE9pZ1RPUHYxS0pSOTFKT2xKa1YyMmVrMXJqSG1xSHZyZERoU2hJOVJYOGFybWs3MUpnV3Uxd19OQXJUQkhGWDFrd203QQ?oc=5)
 ### 🇰🇷 KODEX 200타겟위클리커버드콜
-- [[ETF머니플로우-10월3주] KODEX200 순매수 1위 수성…TIGER 미국 S&P500 6계단↑ - 신아일보](https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZV1VYRDZVa3FiT0ZRSGZmYmtWYVpBTG5OSm8wTTVNVWx0d0VKTWFvWEFFS2FOdXJLZkVyek9RZ201b1BhOFVxdGkwVF93SHZCd1lwOVZaMFFmY0luYURtRGNkNnBXQUhtYlFjZG11ZUU?oc=5)
+- 금일 관련 뉴스가 없습니다.
 ### 🇰🇷 PLUS 금채권혼합
 - 금일 관련 뉴스가 없습니다.
 ### 🇰🇷 PLUS 고배당주
 - 금일 관련 뉴스가 없습니다.
 ### 🇰🇷 KODEX 머니마켓액티브
-- [108조 액티브 ETF 시장 제자리…머니마켓으로 대피하자 양극화 심화 - www.ebn.co.kr](https://news.google.com/rss/articles/CBMiaEFVX3lxTE85cVpLeF9nV2hoNlZ5bkZGdmVFeUI1MENHREtzVl9jMktDRkx0alVMLXViYXVlU3Jyd09aN3g2TzktOHlyMGt2eXRRc1k5M05ad1RINUQzeHFneG0ydkRUcWFNazRyalIt?oc=5)
-- [환율 떨어지니…해외형 ETF 마케팅 다시 고개 - 서울경제](https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wdm5TZU1ZQ0NUQm1MVHY5VXdIRDJ1U3hOM0huSWJteU0za0w3cUdMZEs5TVN6ODVlRjh1NElzZmxhdVJwU0FQa3FzaE5kdVplcWfSAVNBVV95cUxPSFd3U0VYTS1MNVlmeHlYWERTYTdrTEFoN1k3bzFBSlIwenQyWXVoT0tNZXktNW0xQWhkN1ZUeGg0QXkweHQwSjZjMlBNLXlXX1FYbw?oc=5)
-- [코스피 5500선 털썩~개미들 버틸까, 떠날까 - 주간현대](https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5qYlcyX01PY1NaRG55V2FfdE9SX181Z0ZpLUFPQzZpaFNOR2E0ZzgyWUtRY09veWJzNGg3T3hkQ0poLUE?oc=5)
+- [ETF 순자산 92조원 증발···삼성·미래에셋 대표 ETF 순위 경쟁 재점화 - 서울파이낸스](https://news.google.com/rss/articles/CBMiakFVX3lxTE0tSWtDSlp4M3NpMTZlMDNuU19YWUQ4SUxSck50Y1JiYzlSUllfZE1OT280Y0lzaTlBakxkdXBzaEk0dkpUQURKMUtqdGF2a2VXT0dQRS1Mcm9vdV9EeFhiOWZhWEtxSnhsblE?oc=5)
 ### 🇰🇷 SOL 코리아고배당
 - 금일 관련 뉴스가 없습니다.
 ### 🇰🇷 PLUS 자사주매입고배당주
